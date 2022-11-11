@@ -1,4 +1,5 @@
 //Bernie Garcia bgarcia295@toromail.csudh.edu
+//HELLO? HELLO? HELLO?
 import java.util.Scanner;
 public class DayOfWeek
 {
